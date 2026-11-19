@@ -1,10 +1,10 @@
 cask "live-translator" do
-  version "0.0.1"
-  sha256 "3662a409a877559b64963a75fa79032cd4026463cbc16819f3fd73b7617d9d54"
+  version "0.2.0"
+  sha256 "ee5b8ddd22ad29aae7c8a53e0256a5c46e35f667efd0451830b5e5c79456205e"
 
   url "https://github.com/umutcetinkaya/live-translator/releases/download/v#{version}/LiveTranslator-v#{version}-macOS.dmg"
   name "Live Translator"
-  desc "Real-time system audio translation for macOS"
+  desc "Free on-device live translation of any system audio"
   homepage "https://github.com/umutcetinkaya/live-translator"
 
   app "Live Translator.app"
