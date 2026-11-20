@@ -1,6 +1,6 @@
 cask "live-translator" do
-  version "0.2.1"
-  sha256 "1c9b9fff957dc1b303c140efbe58118ec9f3a104bda61f0146d6041f640fb675"
+  version "0.2.2"
+  sha256 "4d1e07f8d133910ceb9c044dbec30396f5eea99609596ba7bfe0e9f2bf958c86"
 
   url "https://github.com/umutcetinkaya/live-translator/releases/download/v#{version}/LiveTranslator-v#{version}-macOS.dmg"
   name "Live Translator"
